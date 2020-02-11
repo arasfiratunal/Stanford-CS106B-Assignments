@@ -1,6 +1,0 @@
-E::=D|E F osas
-F::=C B|afafaaf|ebuweveebuveve
-D::=annskm|kaynana|skli|sqrt|sukur
-C::=amk|dalyarak|skmsonik
-B::=lama|fırat|skm2|ama|sanane|yazık|aglama|D lapgot|zavallı D C|C the ozlem
-A::=E D F C|yallah
